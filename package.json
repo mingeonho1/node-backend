@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "노드로 배우는 백엔드 A-Z(노드, 익스프레스, 데이터베이스, 트위터 클론코딩)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7"
+  }
+}
